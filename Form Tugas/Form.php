@@ -6,7 +6,7 @@
     <title>Buat Account Baru</title>
 </head>
 <body>
-    <form action="welcome.html" method="post">
+    <form action="welcome.php" method="post">
         <h1>Sign Up Form</h1>
 
         <label for="first-name">First Name:</label>
